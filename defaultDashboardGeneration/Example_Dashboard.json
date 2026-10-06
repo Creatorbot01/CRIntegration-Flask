@@ -1,0 +1,38 @@
+{
+  "title": "Example Dashboard",
+  "width": 1200,
+  "widgets": [
+    {
+      "id": "w1791245979632",
+      "type": "button",
+      "name": "buzzbutton",
+      "label": "Buzzer",
+      "placeholder": "",
+      "x": 20,
+      "y": 20,
+      "w": 160,
+      "h": 90,
+      "labelMode": "both",
+      "value": "1",
+      "idleValue": "0",
+      "oneshot": true,
+      "color": "#0f6e8c",
+      "pressColor": "#0f8f6b",
+      "pressMs": 400
+    },
+    {
+      "id": "w1791257415676",
+      "type": "text",
+      "name": "text1",
+      "label": "Text",
+      "placeholder": "Update the default thing pls",
+      "x": 200,
+      "y": 20,
+      "w": 410,
+      "h": 100
+    }
+  ],
+  "variables": [],
+  "scripts": [],
+  "tokens": []
+}
